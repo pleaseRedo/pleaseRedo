@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
