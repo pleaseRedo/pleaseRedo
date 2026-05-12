@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 March 2026 - To: 09 May 2026
+From: 02 March 2026 - To: 10 May 2026
 
 Total Time: 26 hrs 21 mins
 
